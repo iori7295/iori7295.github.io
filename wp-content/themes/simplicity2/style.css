@@ -587,7 +587,7 @@ hr.sep {
   height: 26px;
   border: none;
   /* 画像をBase64にするためコメントアウト
-  background: url("https://blog.iori7295.com/wp-content/themes/simplicity2/images/search.png") no-repeat 50% 50%; */
+  background: url("/wp-content/themes/simplicity2/images/search.png") no-repeat 50% 50%; */
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAEIklEQVR42pWVe0xTVxzHf22hFWiBUKjLEiTOjODGq4ArJJiYBV+gWy3YBoegWZysOgsVKYNC8IGhsMIYCLLqRKRkRdwEp4wR/yCZgwbHa8bwCH9sQkt5lceGIax0v3PDJd7MZaHJL72555zP+f6eF5xOJ3R1d4Pp7l342mAAbUEBp/DixagDBw/mh0dGdmzbvv25f0DA88CgoA5FcnLx9draWOXZs7xinQ5WVlZoIxzKGMDb9fXCdKUy21ckWgZcep0JfX2dCL5WVl4udDgcsLq6SuzfwJYHDzyzc3Lagc3eOMwXCJzePj6zAm9vmwefvwYs1sbap0rlT9PT0z52ux3QmMBfe3vhUlHRdXozOfhOcHBfTGzspYTDh5Mk0dHxkRJJQXBoqPlVtedUqrrBwUFWT08PE/j9/fu7PVANrSD52DFjXn7+W1ESCezdvx8ioqIgLCICLmg0b2So1d+gckotb8sWp8lkSjCbzUzgUYWihYBY6K44MnKipbVVoMrMhJDw8A3g20FBgPEF6+Skqywp6TvW+uXxCQmdCHRhAN8NCZmi3VBnZdUUl5QAxhPSTp6EuH37IBTBpxFWUFgIDY2NcFWnO04UEtsRGDhfWVXlzQDiy0V6A8IufJ6XB5eLioCAP5BK4YhMBt+aTHCrrg4MN25A/Z07UkqAi4tTKBLNvx8XJ2QAQ8LCbHQysjWarwYGBqCishJKSksB3YO0EycgV6sFU1MT6PAStFRaQODOnXbDzZs+DGCSXP6IBmIifrdYLPyq6moKeCQxEY6npsJnKhU0Ya1mqtXwSXp6K51AqUzW2W02cxjA5nv39vI9PddIDbI4HOdHKSmG8ooKry/0ejZRmJqWBpnnz7OMjY1eyjNnqnlubg7AfTx39zV9WdmBX7q6mFl+1NYGObm5Dex1IAGHicW9eVptVvyhQ7uOyuW7Pj516nR0TEwvdSnGjsvjOc5lZBhJu6JCJnBkZATGxsbc5ApFm6urq+PVAvfw9CRGINQ7DpdLlRf2+fSkzeY7YbHAHy9eMIFDQ0OU/fbsGV+amKjbFhAwxVkHoGuU0Ze48HhONq75+vn99cPDh/KXy8uwuLj4eiDpaZKMLI3mQ3T1y/diYjowTo8R8nj3nj0d2C3DFBQ7hPxjdVhHR0d3WK3W/waW6vWA4wkw2KQWBeiuFwK9rtXU8Pv6+iRv+vv/iaGglFJtmpLSOT4+zv1f4OUrV0iiwF0gADxMipzaW1Nbq0UgiSXlOnluMBqzNw0knfM3zr2ep0/dsL+pqeO67nqoWDyxKSD5NTU3w89PnsCP7e2kY2QERBvOy5ebAvb398Pc3BzYpqZgZmYG7PPzXBxjDTi9Z4VC4SxOIcOmgDabDZaWlmBhYYGUCHlm47dHL9q6ddhPJBrGCXWVBv4DYbnuWKzr2fcAAAAASUVORK5CYII=") no-repeat 50% 50%;
   z-index:0;
   top:3px;
@@ -1447,7 +1447,7 @@ span.wpp-views{
   left:0;
   right:0;
   /* 画像をBase64にするためコメントアウト
-  background: url("https://blog.iori7295.com/wp-content/themes/simplicity2/images/black-transparent.png") repeat scroll 0 0 transparent; */
+  background: url("/wp-content/themes/simplicity2/images/black-transparent.png") repeat scroll 0 0 transparent; */
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQMAAAAk8RryAAAAA1BMVEUAAACnej3aAAAAAXRSTlOZyTXzhgAAAA1JREFUGNNjGAWDCgAAAZAAAXtlmk8AAAAASUVORK5CYII=") repeat scroll 0 0 transparent;
 /*  opacity:0.7;
   background-color:#333;*/
@@ -1471,7 +1471,7 @@ span.wpp-views{
 .widget_new_popular .popular-entrys-large-on .wpp-list li span.wpp-views,
 .widget_popular_ranking .popular-entrys-large-on .wpp-list li span.wpp-views {
   /* 画像をBase64にするためコメントアウト
-  background: url("https://blog.iori7295.com/wp-content/themes/simplicity2/images/black-transparent.png") repeat scroll 0 0 transparent; */
+  background: url("/wp-content/themes/simplicity2/images/black-transparent.png") repeat scroll 0 0 transparent; */
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQMAAAAk8RryAAAAA1BMVEUAAACnej3aAAAAAXRSTlOZyTXzhgAAAA1JREFUGNNjGAWDCgAAAZAAAXtlmk8AAAAASUVORK5CYII=") repeat scroll 0 0 transparent;
   color:#fff;
   opacity:1;
@@ -2938,12 +2938,12 @@ a.comments-balloon-btn-link .fa-comment{position: relative;top:-3px;}
 ************************************/
 /*@font-face{
   font-family: Boogaloo;
-  src:url('https://blog.iori7295.com/wp-content/themes/simplicity2/webfonts/boogaloo/Boogaloo-Regular.ttf');
+  src:url('/wp-content/themes/simplicity2/webfonts/boogaloo/Boogaloo-Regular.ttf');
 }
 
 @font-face {
  font-family: Boogaloo;
- src: url('https://blog.iori7295.com/wp-content/themes/simplicity2/webfonts/boogaloo/Boogaloo-Regular.ttf') format("truetype");
+ src: url('/wp-content/themes/simplicity2/webfonts/boogaloo/Boogaloo-Regular.ttf') format("truetype");
 }*/
 
 /************************************
@@ -3650,11 +3650,11 @@ dl.recent-comments dd .recent-comment-content{
 }
 
 .video-click:hover .video-play {
-    background: url("https://blog.iori7295.com/wp-content/themes/simplicity2/images/youtube-play.png") no-repeat scroll -101px -13px rgba(0, 0, 0, 0);
+    background: url("/wp-content/themes/simplicity2/images/youtube-play.png") no-repeat scroll -101px -13px rgba(0, 0, 0, 0);
 }
 
 .video-play {
-  background: url("https://blog.iori7295.com/wp-content/themes/simplicity2/images/youtube-play.png") no-repeat scroll 2px -13px rgba(0, 0, 0, 0);
+  background: url("/wp-content/themes/simplicity2/images/youtube-play.png") no-repeat scroll 2px -13px rgba(0, 0, 0, 0);
   height: 62px;
   left: 50%;
   margin-left: -45px;

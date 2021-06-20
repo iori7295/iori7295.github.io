@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	半径300mの世界 へのコメント	</title>
-	<atom:link href="https://blog.iori7295.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.iori7295.com/</link>
+	Hello world! へのコメント	</title>
+	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 20 Jun 2021 02:57:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		A WordPress Commenter より Hello world! へのコメント		</title>
-		<link>https://blog.iori7295.com/hello-world/#comment-1</link>
+		A WordPress Commenter より		</title>
+		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 20 Jun 2021 02:57:22 +0000</pubDate>
-		<guid isPermaLink="false">https://blog.iori7295.com/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
